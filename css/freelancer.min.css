@@ -164,3 +164,8 @@
     max-width: 100%;
   }
 }
+
+/*Disribute text equally*/
+.space-evenly {
+  text-align: justify;
+}
